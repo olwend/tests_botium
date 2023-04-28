@@ -1,0 +1,48 @@
+﻿RepotCardBlocked,card blocked from online purchase
+RepotCardBlocked,card blocked online
+EnquieBalance,balance
+EnquieBalance,Account balance
+EnquieBalance,balance query
+EnquieBalance,how much money is in my Account
+RepotInternetBankingLoginProblem,i can't log onto internet banking
+RepotInternetBankingLoginProblem,i can't login to my internet banking
+RepotInternetBankingLoginProblem,unable to log into internet banking
+RepotInternetBankingLoginProblem,cannot access internet banking
+RepotInternetBankingLoginProblem,unable to access internet banking
+RepotInternetBankingLoginProblem,forgot my internet banking password
+RepotInternetBankingLoginProblem,internet banking password
+EnquieDirectDebit,direct debit
+EnquieDirectDebit,direct debits
+EnquieDirectDebit,direct debit query
+EnquieDirectDebit,direct debit enquiry
+EnquieDirectDebit,check a direct debit
+EnquieDirectDebit,a direct debit
+EnquieMoneyTransfer,money being paid into my Account
+EnquieMoneyTransfer,about transferring money to somebody else
+EnquieTransfer,transfer
+EnquieTransfer,transfers
+EnquieTransfer,a transfer
+RepotCardDeclined,card declined
+RepotCardDeclined,declined card
+EnquieLoan,loan
+EnquieLoan,personal loan
+EnquieLoan,loan application
+RepotFraud,fraud
+RepotFraud,possible fraud
+RepotFraud,fraudulent activity
+RepotFraud,card has come up unauthorised usage
+EnquieTransaction,transactions
+EnquieTransaction,transaction
+EnquieTransaction,transaction query
+EnquieTransaction,check transactions
+RepotMoneyMissing,missing money
+RepotMoneyMissing,money missing from my Account
+RepotTransactionUnknown,money taken out of Account
+RepotTransactionUnknown,unknown transaction
+RepotTransactionUnknown,unknown transactions
+RepotTransactionUnknown,unknown payment
+RequestAdvise,speak to an adviser
+RequestAdvise,adviser
+RequestAdvise,customer service
+RequestAdvise,speak to adviser
+RequestAdvise,speak to someone

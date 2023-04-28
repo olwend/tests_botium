@@ -1,0 +1,5 @@
+UTT_BOOKING_RESPONSE
+What city will you be staying in?
+What day do you want to check in?
+How many nights will you be staying? 
+

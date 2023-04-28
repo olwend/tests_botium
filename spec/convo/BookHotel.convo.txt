@@ -1,0 +1,7 @@
+Test Case for: BookHotel
+
+#me
+UTT_BOOKHOTEL
+
+#bot
+UTT_BOOKING_RESPONSE

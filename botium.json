@@ -1,0 +1,15 @@
+{
+  "botium": {
+    "Capabilities": {
+      "PROJECTNAME": "BookHotel spike",
+      "CONTAINERMODE": "lex",
+      "LEX_REGION": "eu-west-2",
+      "LEX_ACCESS_KEY_ID": "AKIASHLYM2JXM7PJFHMI",
+      "LEX_SECRET_ACCESS_KEY": "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",
+      "LEX_PROJECT_NAME": "oedBooking",
+      "LEX_PROJECT_ALIAS":"prod" 
+    },
+    "Sources": {},
+    "Envs": {}
+  }
+}

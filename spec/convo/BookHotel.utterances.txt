@@ -1,0 +1,12 @@
+UTT_BOOKHOTEL
+make a reservation
+I want to book a hotel
+I want to book 2 nights in New York next week
+Plan accommodation
+I want to make hotel reservations
+I need to stay away overnight
+I’m travelling for a meeting in Los Angeles
+I am planning a business trip
+I want to make hotel reservations
+I want to book a stay in New York,
+I want to book a 3 night stay
